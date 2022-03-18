@@ -40,7 +40,7 @@
 - **git commit** -m '메세지': 로컬저장소로 파일을 이동, 메세지는 내가 파일을 설명하는 것
 - **git log --oneline**: 변경사항들의 기록을 한줄로 표시
 - 로컬 깃 사전작업
-    **git --global user.name "유저명"** -> **git config --global user.email "깃허브 가입 이메일"** -> **git config --global core.editor "code --wait"** -> **git config --global --list**
+    **git config --global user.name "유저명"** -> **git config --global user.email "깃허브 가입 이메일"** -> **git config --global core.editor "code --wait"** -> **git config --global --list**
 - **git status**: 현재 로컬 저장소와 파일 상태를 확인
 
 7. github 연결
