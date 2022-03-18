@@ -77,7 +77,3 @@
 - ctrl + t를 통해 만들 수 있음
 
 ctrl + /를 통해 마크다운 원본을 확인할 수 있음
-
-이후 추가실습 진행합니다
-https://github.com/taehwan-kang/taehwan-kang
-추가사항은 여기로
